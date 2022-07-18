@@ -2,7 +2,7 @@
 Data Analysis on employee dataset using MySQL+Tableau
 
 ### Description
-The data analysis done on male and female employees over years:
+The data analyses on male and female employees over years:
 * Managers per department
 * Average annual salary per department
 
